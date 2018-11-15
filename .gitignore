@@ -1,2 +1,4 @@
 .idea
 *.json
+*.csv
+node_modules
